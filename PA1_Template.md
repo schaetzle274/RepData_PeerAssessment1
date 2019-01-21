@@ -9,7 +9,7 @@ output:
     toc_depth: 5
   pdf_document: default
 editor_options: 
-  chunk_output_type: console
+  chunk_output_type: inline
 ---
 Reproducible Research Projekt 1
 ==============================
