@@ -2,11 +2,9 @@
 output:
   html_document: 
     df_print: default
-    fig_caption: yes
     keep_md: yes
     number_sections: yes
     toc: yes
-    toc_depth: 5
   pdf_document: default
 editor_options: 
   chunk_output_type: inline
