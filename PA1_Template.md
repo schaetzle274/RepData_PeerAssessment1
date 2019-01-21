@@ -2,6 +2,7 @@
 output:
   html_document: 
     df_print: default
+    fig_caption: yes
     keep_md: yes
     number_sections: yes
     toc: yes
