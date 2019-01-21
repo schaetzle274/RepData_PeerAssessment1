@@ -5,9 +5,7 @@ output:
     fig_caption: yes
     keep_md: yes
     number_sections: yes
-    self_contained: no
     smart: no
-    toc: yes
   pdf_document: default
 editor_options: 
   chunk_output_type: inline
