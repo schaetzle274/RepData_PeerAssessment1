@@ -4,7 +4,8 @@ output:
     df_print: default
     fig_caption: yes
     keep_md: yes
-    smart: no
+    number_sections: yes
+    theme: journal
   pdf_document: default
 editor_options: 
   chunk_output_type: inline
