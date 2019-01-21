@@ -4,7 +4,6 @@ output:
     df_print: default
     fig_caption: yes
     keep_md: yes
-    number_sections: yes
     smart: no
   pdf_document: default
 editor_options: 
